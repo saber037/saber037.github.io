@@ -4,6 +4,99 @@
   
     
     <entry>
+      <title>Tetris - Classic Block Puzzle</title>
+      <link href="/2026/04/24/Tetris/"/>
+      <url>/2026/04/24/Tetris/</url>
+      
+        <content type="html"><![CDATA[<h2 id="About-the-Game"><a href="#About-the-Game" class="headerlink" title="About the Game"></a>About the Game</h2><p>The legendary Tetris game, now available as a browser version.<br>Stack falling blocks to complete lines and score points.</p><h2 id="How-to-Play"><a href="#How-to-Play" class="headerlink" title="How to Play"></a>How to Play</h2><ul><li>Left&#x2F;Right arrows: Move blocks</li><li>Up arrow: Rotate blocks</li><li>Down arrow: Speed up fall</li><li>Spacebar: Drop instantly</li></ul><h2 id="Play-Online"><a href="#Play-Online" class="headerlink" title="Play Online"></a>Play Online</h2><p><a href="https://tetris.com/play-tetris">Play Tetris</a></p><h2 id="Open-Source-Info"><a href="#Open-Source-Info" class="headerlink" title="Open Source Info"></a>Open Source Info</h2><ul><li>GitHub: <a href="https://github.com/jamestan/tetris">https://github.com/jamestan/tetris</a></li><li>License: MIT</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Games </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> puzzle </tag>
+            
+            <tag> open-source </tag>
+            
+            <tag> retro </tag>
+            
+            <tag> tetris </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Minesweeper - Classic Puzzle</title>
+      <link href="/2026/04/24/Minesweeper/"/>
+      <url>/2026/04/24/Minesweeper/</url>
+      
+        <content type="html"><![CDATA[<h2 id="About-the-Game"><a href="#About-the-Game" class="headerlink" title="About the Game"></a>About the Game</h2><p>The classic Minesweeper puzzle game, now playable in your browser.<br>Uncover tiles, avoid mines, and mark them with flags to clear the board.</p><h2 id="How-to-Play"><a href="#How-to-Play" class="headerlink" title="How to Play"></a>How to Play</h2><ul><li>Left click: Reveal a tile</li><li>Right click: Flag a suspected mine</li><li>Win by clearing all non-mine tiles</li></ul><h2 id="Play-Online"><a href="#Play-Online" class="headerlink" title="Play Online"></a>Play Online</h2><p><a href="https://minesweeper.online/">Play Minesweeper</a></p><h2 id="Open-Source-Info"><a href="#Open-Source-Info" class="headerlink" title="Open Source Info"></a>Open Source Info</h2><ul><li>GitHub: <a href="https://github.com/featherbear/minesweeper">https://github.com/featherbear/minesweeper</a></li><li>License: MIT</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Games </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> minesweeper </tag>
+            
+            <tag> puzzle </tag>
+            
+            <tag> open-source </tag>
+            
+            <tag> web-game </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Snake Game - Open Source Classic</title>
+      <link href="/2026/04/24/Snake%20Game/"/>
+      <url>/2026/04/24/Snake%20Game/</url>
+      
+        <content type="html"><![CDATA[<h2 id="About-the-Game"><a href="#About-the-Game" class="headerlink" title="About the Game"></a>About the Game</h2><p>A simple yet addictive Snake game built with pure HTML, CSS, and JavaScript.<br>Control the snake to eat food, grow longer, and avoid hitting the walls or yourself.</p><h2 id="How-to-Play"><a href="#How-to-Play" class="headerlink" title="How to Play"></a>How to Play</h2><ul><li>Desktop: Arrow keys (↑ ↓ ← →)</li><li>Mobile: Swipe screen</li><li>Refresh to restart</li></ul><h2 id="Play-Online"><a href="#Play-Online" class="headerlink" title="Play Online"></a>Play Online</h2><p><a href="https://snake.io/">Play Snake</a></p><h2 id="Open-Source-Info"><a href="#Open-Source-Info" class="headerlink" title="Open Source Info"></a>Open Source Info</h2><ul><li>GitHub: <a href="https://github.com/griffinmcelroy/snake">https://github.com/griffinmcelroy/snake</a></li><li>License: MIT</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Games </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> open-source </tag>
+            
+            <tag> web-game </tag>
+            
+            <tag> snake </tag>
+            
+            <tag> retro </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2048 - Open Source Puzzle Game</title>
       <link href="/2026/04/24/Source%20Puzzle%20Game/"/>
       <url>/2026/04/24/Source%20Puzzle%20Game/</url>
@@ -20,13 +113,13 @@
       
         <tags>
             
-            <tag> 2048 </tag>
-            
             <tag> puzzle </tag>
             
             <tag> open-source </tag>
             
             <tag> web-game </tag>
+            
+            <tag> 2048 </tag>
             
             <tag> free </tag>
             
