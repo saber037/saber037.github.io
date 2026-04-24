@@ -4,6 +4,99 @@
   
     
     <entry>
+      <title>Tic Tac Toe - Classic Two-Player Game</title>
+      <link href="/2026/04/24/Tic%20Tac%20Toe/"/>
+      <url>/2026/04/24/Tic%20Tac%20Toe/</url>
+      
+        <content type="html"><![CDATA[<h2 id="About-the-Game"><a href="#About-the-Game" class="headerlink" title="About the Game"></a>About the Game</h2><p>The classic Tic Tac Toe game you can play in your browser.<br>Challenge a friend or play against the computer AI.</p><h2 id="How-to-Play"><a href="#How-to-Play" class="headerlink" title="How to Play"></a>How to Play</h2><ul><li>Click on a cell to place your mark (X or O)</li><li>Get three in a row to win</li><li>Play against AI or a friend</li></ul><h2 id="Play-Online"><a href="#Play-Online" class="headerlink" title="Play Online"></a>Play Online</h2><p><a href="https://tictactoegame.com/">Play Tic Tac Toe</a></p><h2 id="Open-Source-Info"><a href="#Open-Source-Info" class="headerlink" title="Open Source Info"></a>Open Source Info</h2><ul><li>GitHub: <a href="https://github.com/tannerlinsley/react-tictactoe">https://github.com/tannerlinsley/react-tictactoe</a></li><li>License: MIT</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Games </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> open-source </tag>
+            
+            <tag> web-game </tag>
+            
+            <tag> tic-tac-toe </tag>
+            
+            <tag> strategy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Flappy Bird - Simple Casual Game</title>
+      <link href="/2026/04/24/Flappy%20Bird/"/>
+      <url>/2026/04/24/Flappy%20Bird/</url>
+      
+        <content type="html"><![CDATA[<h2 id="About-the-Game"><a href="#About-the-Game" class="headerlink" title="About the Game"></a>About the Game</h2><p>A simple and addictive Flappy Bird clone, built for the browser.<br>Tap or click to flap your wings and avoid the pipes.</p><h2 id="How-to-Play"><a href="#How-to-Play" class="headerlink" title="How to Play"></a>How to Play</h2><ul><li>Desktop: Click or press any key to flap</li><li>Mobile: Tap the screen</li><li>Avoid hitting the pipes or the ground</li></ul><h2 id="Play-Online"><a href="#Play-Online" class="headerlink" title="Play Online"></a>Play Online</h2><p><a href="https://flappybird.io/">Play Flappy Bird</a></p><h2 id="Open-Source-Info"><a href="#Open-Source-Info" class="headerlink" title="Open Source Info"></a>Open Source Info</h2><ul><li>GitHub: <a href="https://github.com/nebez/floppybird">https://github.com/nebez/floppybird</a></li><li>License: MIT</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Games </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> open-source </tag>
+            
+            <tag> web-game </tag>
+            
+            <tag> flappy-bird </tag>
+            
+            <tag> casual </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Breakout - Classic Brick Breaker</title>
+      <link href="/2026/04/24/Breakout/"/>
+      <url>/2026/04/24/Breakout/</url>
+      
+        <content type="html"><![CDATA[<h2 id="About-the-Game"><a href="#About-the-Game" class="headerlink" title="About the Game"></a>About the Game</h2><p>A modern browser remake of the classic Breakout arcade game.<br>Use your paddle to bounce the ball and break all the bricks to clear the level.</p><h2 id="How-to-Play"><a href="#How-to-Play" class="headerlink" title="How to Play"></a>How to Play</h2><ul><li>Desktop: Left&#x2F;Right arrows to move paddle</li><li>Mobile: Swipe left&#x2F;right</li><li>Clear all bricks to win</li></ul><h2 id="Play-Online"><a href="#Play-Online" class="headerlink" title="Play Online"></a>Play Online</h2><p><a href="https://breakoutgame.io/">Play Breakout</a></p><h2 id="Open-Source-Info"><a href="#Open-Source-Info" class="headerlink" title="Open Source Info"></a>Open Source Info</h2><ul><li>GitHub: <a href="https://github.com/lexcast/Breakout">https://github.com/lexcast/Breakout</a></li><li>License: MIT</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Games </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> open-source </tag>
+            
+            <tag> web-game </tag>
+            
+            <tag> breakout </tag>
+            
+            <tag> arcade </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Tetris - Classic Block Puzzle</title>
       <link href="/2026/04/24/Tetris/"/>
       <url>/2026/04/24/Tetris/</url>
@@ -24,9 +117,9 @@
             
             <tag> open-source </tag>
             
-            <tag> retro </tag>
-            
             <tag> tetris </tag>
+            
+            <tag> retro </tag>
             
         </tags>
       
@@ -86,42 +179,9 @@
             
             <tag> web-game </tag>
             
-            <tag> snake </tag>
-            
             <tag> retro </tag>
             
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>2048 - Open Source Puzzle Game</title>
-      <link href="/2026/04/24/Source%20Puzzle%20Game/"/>
-      <url>/2026/04/24/Source%20Puzzle%20Game/</url>
-      
-        <content type="html"><![CDATA[<h2 id="About-the-Game"><a href="#About-the-Game" class="headerlink" title="About the Game"></a>About the Game</h2><p>2048 is a simple, addictive, and open-source number puzzle game. Slide tiles to combine the same numbers and try to reach the 2048 tile.</p><p>It runs entirely in the browser — no installation, no ads, no account required.</p><h2 id="How-to-Play"><a href="#How-to-Play" class="headerlink" title="How to Play"></a>How to Play</h2><ul><li>Desktop: Arrow keys (↑ ↓ ← →)</li><li>Mobile: Swipe screen</li><li>Refresh page to restart</li></ul><h2 id="Play-Online"><a href="#Play-Online" class="headerlink" title="Play Online"></a>Play Online</h2><p><a href="https://play2048.co/">Play Now</a></p><h2 id="Open-Source-Info"><a href="#Open-Source-Info" class="headerlink" title="Open Source Info"></a>Open Source Info</h2><ul><li>GitHub: <a href="https://github.com/gabrielecirulli/2048">https://github.com/gabrielecirulli/2048</a></li><li>License: MIT (free &amp; open-source)</li></ul>]]></content>
-      
-      
-      <categories>
-          
-          <category> Games </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> puzzle </tag>
-            
-            <tag> open-source </tag>
-            
-            <tag> web-game </tag>
-            
-            <tag> 2048 </tag>
-            
-            <tag> free </tag>
+            <tag> snake </tag>
             
         </tags>
       
