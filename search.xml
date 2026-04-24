@@ -82,13 +82,13 @@
       
         <tags>
             
-            <tag> open-source </tag>
-            
-            <tag> web-game </tag>
-            
             <tag> breakout </tag>
             
             <tag> arcade </tag>
+            
+            <tag> open-source </tag>
+            
+            <tag> web-game </tag>
             
         </tags>
       
@@ -113,13 +113,13 @@
       
         <tags>
             
-            <tag> puzzle </tag>
-            
             <tag> open-source </tag>
             
-            <tag> tetris </tag>
+            <tag> puzzle </tag>
             
             <tag> retro </tag>
+            
+            <tag> tetris </tag>
             
         </tags>
       
@@ -144,13 +144,13 @@
       
         <tags>
             
-            <tag> minesweeper </tag>
-            
-            <tag> puzzle </tag>
-            
             <tag> open-source </tag>
             
             <tag> web-game </tag>
+            
+            <tag> minesweeper </tag>
+            
+            <tag> puzzle </tag>
             
         </tags>
       
@@ -179,9 +179,9 @@
             
             <tag> web-game </tag>
             
-            <tag> retro </tag>
-            
             <tag> snake </tag>
+            
+            <tag> retro </tag>
             
         </tags>
       
